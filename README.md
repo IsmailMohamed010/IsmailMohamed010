@@ -1,3 +1,16 @@
+<style>
+  a:hover {
+    color: #ff5733;
+    text-decoration: underline;
+  }
+
+  h2 {
+    background: linear-gradient(to right, #ff5733, #ffba2e);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+</style>
+
 # Ismail Mohamed
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-al-hetimi)
@@ -10,14 +23,10 @@ Study Bachelor of Computer Science at the Faculty of Computer Science at Benha N
 
 ## Hard Skills
 
-- C++, SQL, Prolog, Python
-- Data Structures, Algorithms, AI, Machine Learning, Deep Learning
-- GitHub, NumPy, Pandas, Seaborn, Scikit-learn, PyTorch
-
-## Soft Skills
-
-- Critical Thinking, Decision-Making, Initiative, Teamwork
-- Problem-Solving, Adaptability, Communication
+- 🐍 Python
+- 🔧 GitHub
+- 📊 Data Analysis
+- 🤖 Machine Learning
 
 ## Experience
 
@@ -31,13 +40,8 @@ October 2023 – Present
 
 ## Projects
 
-### Customer Churn Prediction Project
-**Machine Learning Project**
-
-- Built predictive models (Logistic Regression, Decision Trees) with 85% accuracy by cleaning and preparing a 21-feature dataset.
-- Conducted EDA using matplotlib and seaborn.
-- Optimized performance using ROC AUC and confusion matrix.
-- [View the project code](https://github.com/IsmailMohamed010/customer-churn-prediction)
+- [Customer Churn Prediction Project](https://github.com/IsmailMohamed010/customer-churn-prediction) - Built predictive models with 85% accuracy.
+- Another Project - Brief description and link.
 
 ## Volunteering Experience
 
@@ -47,7 +51,6 @@ October 2023 – Present
 
 - Covered data analysis tools (SQL, Excel, Python) with 50+ students.
 - Used materials from higher education platforms (DataCamp, Data Science 365) for practical student training.
-- Empowered students with data analysis principles and tools, enabling them to work with real-world data, secure job readiness, and undertake freelance tasks before completing the training.
 
 ### Problem Judger
 **ECPC-BNU**  
@@ -55,7 +58,6 @@ October 2023 – Present
 
 - Judged contests and created sheets for training and ECPC problems.
 - Validated 90+ problems using critical thinking and high-quality feedback.
-- Improved problem accuracy to 80%, reducing participant issues by 90%.
 
 ## Education
 
