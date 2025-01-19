@@ -1,7 +1,7 @@
 # Ismail Mohamed
 
 [![Email](https://img.shields.io/badge/Email-ismailalhetimi@gmail.com-blue)](mailto:ismailalhetimi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ismail-al-hetimi-blue)](https://www.linkedin.com/in/ismail-al-hetimi)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-ismail-al-hetimi-blue)](https://www.linkedin.com/in/ismail-al-hetimi)
 [![GitHub](https://img.shields.io/badge/GitHub-IsmailMohamed010-blue)](https://github.com/IsmailMohamed010)
 
 ## About Me
