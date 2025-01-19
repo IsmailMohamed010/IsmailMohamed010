@@ -1,32 +1,37 @@
-<style>
-  a:hover {
-    color: #ff5733;
-    text-decoration: underline;
-  }
-
-  h2 {
-    background: linear-gradient(to right, #ff5733, #ffba2e);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-</style>
-
 # Ismail Mohamed
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-al-hetimi)
-[![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsmailMohamed010)
-[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailalhetimi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ismailalhetimi@gmail.com-blue)](mailto:ismailalhetimi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ismail-al-hetimi-blue)](https://www.linkedin.com/in/ismail-al-hetimi)
+[![GitHub](https://img.shields.io/badge/GitHub-IsmailMohamed010-blue)](https://github.com/IsmailMohamed010)
 
-## Summary
+## About Me
 
-Study Bachelor of Computer Science at the Faculty of Computer Science at Benha National University. Intern as a Machine Learning Engineer at Digital Egypt Pioneers Initiative. Learn Data Analysis in Python from DataCamp and engage in student activities such as ECPC at BNU Community as a Problem Judger and GDG-BNU as a Technical Data Analyst.
+A dedicated Computer Science student with a strong foundation in programming and a passion for Machine Learning. Currently pursuing a B.S. in Computer Science from Benha National University and gaining practical experience through internships and volunteer work. Skilled in Python, data analysis, and machine learning, with a focus on building predictive models and enhancing decision-making processes.
 
-## Hard Skills
+## Skills
 
-- 🐍 Python
-- 🔧 GitHub
-- 📊 Data Analysis
-- 🤖 Machine Learning
+| ![Python](images/python-logo.svg) | Python |
+| ![C++](images/cpp-logo.svg) | C++ |
+| ![SQL](images/sql-logo.svg) | SQL |
+| ![Prolog](images/prolog-logo.svg) | Prolog |
+| Data Structures | Algorithms |
+| AI | Machine Learning |
+| Deep Learning | ![GitHub](images/github-logo.svg) |
+| ![NumPy](images/numpy-logo.svg) | NumPy |
+| ![Pandas](images/pandas-logo.svg) | Pandas |
+| ![Seaborn](images/seaborn-logo.svg) | Seaborn |
+| ![Scikit-learn](images/scikit-learn-logo.svg) | Scikit-learn |
+| ![PyTorch](images/pytorch-logo.svg) | PyTorch |
+
+## Soft Skills
+
+- Critical Thinking
+- Decision-Making
+- Initiative
+- Teamwork
+- Problem-Solving
+- Adaptability
+- Communication
 
 ## Experience
 
@@ -40,8 +45,8 @@ October 2023 – Present
 
 ## Projects
 
-- [Customer Churn Prediction Project](https://github.com/IsmailMohamed010/customer-churn-prediction) - Built predictive models with 85% accuracy.
-- Another Project - Brief description and link.
+- **Customer Churn Prediction Project**  
+  Built predictive models with 85% accuracy. [View the project code](https://github.com/IsmailMohamed010/customer-churn-prediction)
 
 ## Volunteering Experience
 
@@ -69,5 +74,5 @@ GPA: 3.37/4.0 (Current)
 
 ## Certifications
 
-- Cisco Certified CCNA - with a letter of merit
-- Python for Data Analysis - DataCamp
+| ![Cisco CCNA](images/cisco-ccna-logo.svg) | Cisco Certified CCNA |
+| ![DataCamp](images/datacamp-logo.svg) | Python for Data Analysis - DataCamp |
