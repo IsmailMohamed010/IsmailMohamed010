@@ -10,18 +10,18 @@ A dedicated Computer Science student with a strong foundation in programming and
 
 ## Skills
 
-| ![Python](images/python-logo.svg) | Python |
-| ![C++](images/cpp-logo.svg) | C++ |
-| ![SQL](images/sql-logo.svg) | SQL |
-| ![Prolog](images/prolog-logo.svg) | Prolog |
+| ![Python](images/python.png) | Python |
+| ![C++](images/c-.png) | C++ |
+| ![SQL](images/sql-server.png) | SQL |
+| | Prolog |
 | Data Structures | Algorithms |
 | AI | Machine Learning |
-| Deep Learning | ![GitHub](images/github-logo.svg) |
-| ![NumPy](images/numpy-logo.svg) | NumPy |
-| ![Pandas](images/pandas-logo.svg) | Pandas |
-| ![Seaborn](images/seaborn-logo.svg) | Seaborn |
-| ![Scikit-learn](images/scikit-learn-logo.svg) | Scikit-learn |
-| ![PyTorch](images/pytorch-logo.svg) | PyTorch |
+| Deep Learning | ![GitHub](images/github.png) |
+| ![NumPy](images/Numpy.png) | NumPy |
+| ![Pandas](images/Pandas.png) | Pandas |
+| ![Seaborn](images/seaborn-seeklogo.png) | Seaborn |
+| ![Scikit-learn](images/scikit-learn.png) | Scikit-learn |
+| ![PyTorch](images/Pytorch.png) | PyTorch |
 
 ## Soft Skills
 
