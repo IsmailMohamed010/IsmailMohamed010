@@ -1,8 +1,9 @@
 # Ismail Mohamed
 
 [![Email](https://img.shields.io/badge/Email-ismailalhetimi@gmail.com-blue)](mailto:ismailalhetimi@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-ismail-al-hetimi-blue)](https://www.linkedin.com/in/ismail-al-hetimi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ismail%20al%20hetimi-blue)](https://www.linkedin.com/in/ismail-al-hetimi)
 [![GitHub](https://img.shields.io/badge/GitHub-IsmailMohamed010-blue)](https://github.com/IsmailMohamed010)
+[![Phone](https://img.shields.io/badge/Phone-+20%20109%20808%208514-blue)](tel:+201098088514)
 
 ## About Me
 
@@ -10,18 +11,8 @@ A dedicated Computer Science student with a strong foundation in programming and
 
 ## Skills
 
-| ![Python](images/python.png) | Python |
-| ![C++](images/c-.png) | C++ |
-| ![SQL](images/sql-server.png) | SQL |
-| | Prolog |
-| Data Structures | Algorithms |
-| AI | Machine Learning |
-| Deep Learning | ![GitHub](images/github.png) |
-| ![NumPy](images/Numpy.png) | NumPy |
-| ![Pandas](images/Pandas.png) | Pandas |
-| ![Seaborn](images/seaborn-seeklogo.png) | Seaborn |
-| ![Scikit-learn](images/scikit-learn.png) | Scikit-learn |
-| ![PyTorch](images/Pytorch.png) | PyTorch |
+| <img src="images/python.pngg" alt="Python" width="20"> | <img src="images/c-.png" alt="C++" width="20"> | <img src="images/sql-server.png" alt="SQL" width="20"> | Prolog | Data Structures | Algorithms | AI | Machine Learning | Deep Learning | <img src="images/github.png" alt="GitHub" width="20"> | <img src="images/Numpy.svg" alt="NumPy" width="20"> | <img src="images/Pandas.svg" alt="Pandas" width="20"> | <img src="images/seaborn-seeklogo.png" alt="Seaborn" width="20"> | <img src="images/scikit-learn.svg" alt="Scikit-learn" width="20"> | <img src="images/Pytorch.svg" alt="PyTorch" width="20"> |
+|-------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-----------------------------------------------------|------------------|--------------|----|------------------|----------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
 
 ## Soft Skills
 
@@ -55,7 +46,7 @@ October 2023 – Present
 October 2023 – Present
 
 - Covered data analysis tools (SQL, Excel, Python) with 50+ students.
-- Used materials from higher education platforms (DataCamp, Data Science 365) for practical student training.
+- Materials from higher education platforms (DataCamp, Data Science 365) were used for practical student training.
 
 ### Problem Judger
 **ECPC-BNU**  
@@ -74,5 +65,5 @@ GPA: 3.37/4.0 (Current)
 
 ## Certifications
 
-| ![Cisco CCNA](images/cisco-ccna-logo.svg) | Cisco Certified CCNA |
-| ![DataCamp](images/datacamp-logo.svg) | Python for Data Analysis - DataCamp |
+- <img src="images/cisco-ccna.svg" alt="Cisco CCNA" width="20"> Cisco Certified CCNA
+- <img src="images/datacamp.svg" alt="DataCamp" width="20"> Python for Data Analysis - DataCamp
