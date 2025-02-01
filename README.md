@@ -36,7 +36,7 @@ October 2023 – Present
 ## Projects
 
 - **Customer Churn Prediction Project**  
-  Built predictive models with 85% accuracy. [View the project code](https://github.com/IsmailMohamed010/customer-churn-prediction)
+  Built predictive models with 80% accuracy. [View the project code](https://github.com/IsmailMohamed010/DEPI/tree/main/ML/Telecom%20Customer%20Churn%20Project)
 
 ## Volunteering Experience
 
@@ -59,10 +59,4 @@ October 2023 – Present
 ### B.S. in Computer Science
 **Benha National University - Faculty of Computer Science**  
 Al Obour, EGY  
-Expected Graduation: 2026  
-GPA: 3.37/4.0 (Current)
-
-## Certifications
-
-- <img src="images/cisco-ccna.svg" alt="Cisco CCNA" width="20"> Cisco Certified CCNA
-- <img src="images/datacamp.svg" alt="DataCamp" width="20"> Python for Data Analysis - DataCamp
+Expected Graduation: 2026
