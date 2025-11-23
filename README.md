@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailMohamed010&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=IsmailMohamed010&color=blueviolet&style=for-the-badge)
 
 # Hi there, I'm Ismail Mohamed 👋
 
