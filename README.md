@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=IsmailMohamed010&color=blueviolet&style=for-the-badge)
+![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
 # Hi there, I'm Ismail Mohamed 👋
 
