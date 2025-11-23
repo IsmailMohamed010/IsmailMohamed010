@@ -1,5 +1,3 @@
-![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
-
 # Hi there, I'm Ismail Mohamed 👋
 
 ### AI Engineer | Computer Vision & NLP Specialist | GenAI Enthusiast
@@ -105,14 +103,6 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmailMohamed010&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailMohamed010&layout=compact&theme=radical)
 
 ---
 
