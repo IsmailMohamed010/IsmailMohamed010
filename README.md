@@ -1,3 +1,5 @@
+![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmailMohamed010&show_icons=true&theme=radical)
+
 # Hi there, I'm Ismail Mohamed 👋
 
 ### AI Engineer | Computer Vision & NLP Specialist | GenAI Enthusiast
