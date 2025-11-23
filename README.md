@@ -1,4 +1,4 @@
-![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+![Coverage](https://img.shields.io/badge/coverage-90%25-green?style=for-the-badge)
 
 # Hi there, I'm Ismail Mohamed 👋
 
