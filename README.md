@@ -1,4 +1,4 @@
-![Coverage](https://img.shields.io/badge/coverage-90%25-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
 # Hi there, I'm Ismail Mohamed 👋
 
